@@ -1,0 +1,5 @@
+include *.png *.jpg *.csv *.dat *.npy *.xrc *.ima
+include setup.py MANIFEST.in MANIFEST
+recursive-include axes_grid *
+recursive-include testdir *
+
