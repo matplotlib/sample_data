@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(name='mpl_sampledata',
-            version='1.0.1rc',
+            version='1.0.1',
             description='matplotlib sample data',
             author='John Hunter',
             author_email='jdh2358@gmail.com',
